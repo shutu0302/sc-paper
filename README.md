@@ -8,7 +8,7 @@ Analysis pipeline for the data reported in "Systematic single cell RNA sequencin
   
 - SCENIC and WGCNA (Figure 2)\
 \
-  Contains R scripts used to analyse Gene regulatory network (GRN) inference using WGCNA and SCENIC. It also has script for GO analysis of WGCNA modules in the supplementary figure using clusterprofiler. Requires the R packages WGCNA (V1.70-3), SCENIC (v1.1.2-2) and clusterprofiler (v4.0.2).
+  Contains R scripts used to analyse Gene regulatory network (GRN) inference using WGCNA and SCENIC. It also has script for GO analysis of WGCNA modules in the supplementary figure using clusterprofiler. The ARACNE results used to find the GRNs of each modules are uploaded in the preprocessed data folder. Requires the R packages WGCNA (V1.70-3), SCENIC (v1.1.2-2) and clusterprofiler (v4.0.2).
   
 - TI method and SCT integration (Figure 3)\
 \
