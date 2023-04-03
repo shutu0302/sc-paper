@@ -1,5 +1,5 @@
 #subset
-cHCs3_IHCs_subset <- subset(combined6, ident=c("cHCs3","IHCs"))
+cHCs3_IHCs_subset <- subset(seob, ident=c("cHCs3","IHCs"))
 #VCT
 cHCs3_IHCs_subset <- SCTransform(cHCs3_IHCs_subset, verbose = FALSE)
 #GET assay data
