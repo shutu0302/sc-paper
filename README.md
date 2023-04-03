@@ -2,7 +2,8 @@
 Analysis pipeline for the data reported in "Systematic single cell RNA sequencing analysis reveals unique transcriptional regulatory networks of Atoh1-mediated hair cell conversion in adult mouse cochleae"
 
 # Contents
-- Scanpy analysis (Figure 1)
+- Scanpy analysis (Figure 1)\
+\
   Contains code used to reanalyse data from GSE173217. Used Jupyter notebook.
 - SCENIC and WGCNA (Figure 2)
   Contains R scripts used to analyse Gene regulatory network (GRN) inference using WGCNA and SCENIC. Requires the R packages WGCNA (V1.70-3) and SCENIC (v1.1.2-2).
